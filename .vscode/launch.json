@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "funtion2add.dart",
+            "program": "newfuntiontest.dart",
             "request": "launch",
             "type": "dart"
         }
