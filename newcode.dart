@@ -11,4 +11,14 @@ void main(List<String> args) {
    print(l[0]);
    List<String> ls = ["1", "2", "3"];
    print(ls[1]);
+
+   Map<String, int> map  = {
+     'A' : 20,
+      'B' : 30,
+      'C' : 40,
+
+   };
+
+
+   print(map['A']);
 }
