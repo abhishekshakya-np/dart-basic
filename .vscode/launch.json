@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "newcode.dart",
+            "program": "fution.dart",
             "request": "launch",
             "type": "dart"
         }
