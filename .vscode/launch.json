@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "nevariable.dart",
+            "program": "newcode.dart",
             "request": "launch",
             "type": "dart"
         }
