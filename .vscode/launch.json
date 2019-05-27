@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "newfuntiontest.dart",
+            "program": "lastcloser.dart",
             "request": "launch",
             "type": "dart"
         }
