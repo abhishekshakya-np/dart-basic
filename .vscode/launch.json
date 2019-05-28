@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lastcloser.dart",
+            "program": "ifelse.dart",
             "request": "launch",
             "type": "dart"
         }
